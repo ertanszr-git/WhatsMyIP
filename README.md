@@ -4,17 +4,16 @@ This script helps you for knowing your IP address.
 
 ## Installation
 
-You have to use Debian based distributions for this script.
-
 ```bash
 git clone https://github.com/rotherda/WhatsMyIP
+cd WhatsMyIP
+./exe.sh
 ```
 
 ## Usage
 
 ```bash
-cd WhatsMyIP
-./ip.sh
+myip
 ```
 
 ## Contributing
