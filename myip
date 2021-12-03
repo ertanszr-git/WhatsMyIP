@@ -1,0 +1,3 @@
+cd /usr/share/
+cd WhatsMyIP
+./myip.sh
