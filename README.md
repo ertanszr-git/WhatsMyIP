@@ -1,4 +1,4 @@
-# What's My IP Address
+# What's My IP Address - WhatsMyIP
 
 This script helps you for knowing your IP address.
 
