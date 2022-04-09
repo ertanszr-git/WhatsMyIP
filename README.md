@@ -7,7 +7,7 @@ This script helps you for knowing your IP address.
 ```bash
 git clone https://github.com/ertanszr-git/WhatsMyIP
 cd WhatsMyIP
-chmod 777 exe.sh
+chmod 500 exe.sh
 ./exe.sh
 ```
 
