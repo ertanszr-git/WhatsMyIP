@@ -1,4 +1,4 @@
 cd /usr/share/
 cd WhatsMyIP
-chmod 777 myip.sh
+chmod 500 myip.sh
 ./myip.sh
